@@ -1,0 +1,19 @@
+{
+  "name": "thinkful-gulp-151001",
+  "version": "1.0.0",
+  "description": "Thinkful gulp workshop",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tolgaek/thinkful-gulp-151001.git"
+  },
+  "author": "Tolga Ekmen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tolgaek/thinkful-gulp-151001/issues"
+  },
+  "homepage": "https://github.com/tolgaek/thinkful-gulp-151001#readme"
+}
